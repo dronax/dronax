@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Poudel</h1>
 <h3 align="center">A passionate and growing Software Engineer from Nepal.</h3>
 
+- 🔭 I’m currently working on **Angular**
+
 - 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **poudelabhishake@gmail.com**
